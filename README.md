@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an Second Year ICT student at PDEU(PDPU), I am eager to learn new frameworks and languages. 
+I am an Third Year ICT student at PDEU(PDPU), I am eager to learn new frameworks and languages. 
 Feel free to contribute to or use any of the projets.
 
 Check out my Drawing app on playstore: https://play.google.com/store/apps/details?id=com.mihir.drawingapp
