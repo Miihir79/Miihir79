@@ -7,4 +7,6 @@ Check out my Drawing app on playstore: https://play.google.com/store/apps/detail
 
 Check out my portfolio website here: https://miihir79.github.io/portfolio.github.io/
 
+I write blogs sometimes: https://hashnode.com/@Mihir79
+
 <sup>Connect with me on [LinkedIn](https://www.linkedin.com/in/mihirshah079)
