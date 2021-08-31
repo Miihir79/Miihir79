@@ -9,4 +9,10 @@ Check out my portfolio website here: https://miihir79.github.io/portfolio.github
 
 I write blogs sometimes: https://hashnode.com/@Mihir79
 
+#### Check out my library:
+<br>
+<a href="https://github.com/Miihir79/DrawingCanvas-Library">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Miihir79&repo=DrawingCanvas-Library&theme=dark" />
+</a>
+<br>
 <sup>Connect with me on [LinkedIn](https://www.linkedin.com/in/mihirshah079)
