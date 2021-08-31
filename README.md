@@ -15,4 +15,11 @@ I write blogs sometimes: https://hashnode.com/@Mihir79
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Miihir79&repo=DrawingCanvas-Library&theme=dark" />
 </a>
 <br>
+
+### GitHub Stats
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Miihir79&theme=dark" alt="Miihir79" /></p>
+<br>
+
 <sup>Connect with me on [LinkedIn](https://www.linkedin.com/in/mihirshah079)
