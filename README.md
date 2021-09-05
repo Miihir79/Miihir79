@@ -13,6 +13,9 @@ I write <a href="https://hashnode.com/@Mihir79">*Blogs*</a> sometimes.
 
 Checkout my latest blog about recyclerView and loading multiple images efficiently in android <a href="https://medium.com/@mihirrshah02/recycler-view-glide-load-a-lot-of-images-really-fast-1434ef47174d">here</a>
 
+### Projects You can contribute to:
+1. <a href="https://github.com/Miihir79/MeraList">MeraList</a> - A notes making application
+2. <a href="https://github.com/Miihir79/BookMyShow_clone">BookMyShow_clone</a> - A app that shows recent movies and their stats
 #### Check out my library:
 <br>
 <a href="https://github.com/Miihir79/DrawingCanvas-Library">
