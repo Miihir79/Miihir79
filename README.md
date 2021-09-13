@@ -5,13 +5,13 @@ Feel free to *contribute* to or *use* any of the projets.
 
 I love **Android and Kotlin** and love contributing to the community.
 
-Check out my Drawing app on <a href="https://play.google.com/store/apps/details?id=com.mihir.drawingapp">*Playstore*</a>
+Check out my Drawing app on <a href="https://play.google.com/store/apps/details?id=com.mihir.drawingapp">*Playstore*</a> 100+ Downloads🚀
 
 Check out my portfolio website <a href="https://miihir79.github.io/portfolio.github.io/">*here*</a> 
 
-I write <a href="https://hashnode.com/@Mihir79">*Blogs*</a> sometimes.
+I write <a href="https://hashnode.com/@Mihir79">*Blogs*</a> sometimes📝
 
-Checkout my latest blog about recyclerView and loading multiple images efficiently in android <a href="https://medium.com/@mihirrshah02/recycler-view-glide-load-a-lot-of-images-really-fast-1434ef47174d">here</a>
+Checkout my latest blog about efficiently using RecyclerView + Glide in android <a href="https://medium.com/@mihirrshah02/recycler-view-glide-load-a-lot-of-images-really-fast-1434ef47174d">here</a>
 
 ### Projects You can contribute to:
 1. <a href="https://github.com/Miihir79/MeraList">MeraList</a> - A notes making application
