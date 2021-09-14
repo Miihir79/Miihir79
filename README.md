@@ -9,7 +9,7 @@ Check out my Drawing app on <a href="https://play.google.com/store/apps/details?
 
 Check out my portfolio website <a href="https://miihir79.github.io/portfolio.github.io/">*here*</a> 
 
-I write <a href="https://hashnode.com/@Mihir79">*Blogs*</a> sometimes📝
+I write *Blogs* sometimes📝 on <a href="https://hashnode.com/@Mihir79">**Hashnode**</a> and <a href="https://medium.com/@mihirrshah02">**Medium**</a>
 
 Checkout my latest blog about efficiently using RecyclerView + Glide in android <a href="https://medium.com/@mihirrshah02/recycler-view-glide-load-a-lot-of-images-really-fast-1434ef47174d">here</a>
 
