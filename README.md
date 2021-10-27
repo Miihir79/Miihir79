@@ -26,7 +26,7 @@ Checkout my latest blog about efficiently using RecyclerView + Glide in android 
 </a>
 <br>
 
-### GitHub Stats
+### GitHub Stats:
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Miihir79&theme=dark" alt="Miihir79" /></p>
