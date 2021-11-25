@@ -5,7 +5,7 @@ Feel free to *contribute* to or *use* any of the projets.
 
 I love **Android and Kotlin** and love contributing to the community.
 
-Check out my Drawing app on <a href="https://play.google.com/store/apps/details?id=com.mihir.drawingapp">*Playstore*</a> 400+ Downloads🚀
+Check out my Drawing app on <a href="https://play.google.com/store/apps/details?id=com.mihir.drawingapp">*Playstore*</a> 500+ Downloads🚀
 
 Check out my portfolio website <a href="https://miihir79.github.io/portfolio.github.io/">*here*</a> 
 
