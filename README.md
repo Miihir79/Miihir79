@@ -32,4 +32,4 @@ Checkout my latest blog about efficiently using RecyclerView + Glide in android 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Miihir79&theme=dark" alt="Miihir79" /></p>
 <br>
 
-<sup>Connect with me on [LinkedIn](https://www.linkedin.com/in/mihirshah079)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/mihirshah079)
