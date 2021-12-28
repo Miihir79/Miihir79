@@ -3,7 +3,7 @@
 I am an Third Year ICT student at PDEU(PDPU), I am eager to learn new frameworks and languages. 
 Feel free to *contribute* to or *use* any of the projets.
 
-I love **Android and Kotlin** and love contributing to the community. I am a member at google developers student clubs PDEU as a open-source lead
+I love **Android and Kotlin** and love contributing to the community. I am a member at Google developers student clubs PDEU as an Open-Source Lead.
 
 Check out my Drawing app on <a href="https://play.google.com/store/apps/details?id=com.mihir.drawingapp">*Playstore*</a> 800+ Downloads🚀
 
