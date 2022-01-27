@@ -32,4 +32,9 @@ My latest blog about efficiently using RecyclerView + Glide to load images in an
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Miihir79&theme=dark" alt="Miihir79" /></p>
 <br>
 
+### Coding Profiles
+
+<a href="https://leetcode.com/Mihir79/">LeetCode</a>
+<a href="https://www.codechef.com/users/mihir_shah02">CodeChef</a>
+
 Connect with me on [LinkedIn](https://www.linkedin.com/in/mihirshah079)
