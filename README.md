@@ -13,7 +13,7 @@ I write *Blogs* sometimes📝on <a href="https://hashnode.com/@Mihir79">**Hashno
 
 I have also written about my *Android Interview Experience* <a href="https://github.com/Miihir79/android-interview-questions">*here*</a>
 
-My latest blog about efficiently using RecyclerView + Glide to load images in android <a href="https://medium.com/@mihirrshah02/recycler-view-glide-load-a-lot-of-images-really-fast-1434ef47174d">*read*</a>
+My latest blog on Meduim about efficiently using RecyclerView + Glide to load images in android <a href="https://medium.com/@mihirrshah02/recycler-view-glide-load-a-lot-of-images-really-fast-1434ef47174d">*read*</a>
 
 ### Projects You can contribute to:
 1. <a href="https://github.com/gdsc-pdeu/MeraList">*MeraList*</a> - A notes making application
@@ -31,6 +31,7 @@ My latest blog about efficiently using RecyclerView + Glide to load images in an
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Miihir79&theme=dark" alt="Miihir79" /></p>
 <br>
+
 
 ### Coding Profiles
 
