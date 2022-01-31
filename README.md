@@ -11,8 +11,6 @@ Check out my portfolio website <a href="https://miihir79.github.io/portfolio.git
 
 I write *Blogs* sometimes📝on <a href="https://hashnode.com/@Mihir79">**Hashnode**</a> and <a href="https://medium.com/@mihirrshah02">**Medium**</a>
 
-I have also written about my *Android Interview Experience* <a href="https://github.com/Miihir79/android-interview-questions">*here*</a>
-
 My latest blog on Meduim about efficiently using RecyclerView + Glide to load images in android <a href="https://medium.com/@mihirrshah02/recycler-view-glide-load-a-lot-of-images-really-fast-1434ef47174d">*read*</a>
 
 ### Projects You can contribute to:
