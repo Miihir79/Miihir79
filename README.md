@@ -30,7 +30,6 @@ My latest blog on Meduim about efficiently using RecyclerView + Glide to load im
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Miihir79&theme=dark" alt="Miihir79" /></p>
 <br>
 
-
 ### Coding Profiles
 
 <a href="https://leetcode.com/Mihir79/">LeetCode</a> <br>
