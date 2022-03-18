@@ -5,7 +5,7 @@ Feel free to *contribute* to or *use* any of the projects.
 
 I love **Android and Kotlin** and love contributing to the open-source community. I am a member at Google developers student clubs PDEU as an Open-Source Lead.
 
-Check out my Drawing app on <a href="https://play.google.com/store/apps/details?id=com.mihir.drawingapp">*Playstore*</a> 1k+ organic Downloads🚀
+Check out my Drawing app on <a href="https://play.google.com/store/apps/details?id=com.mihir.drawingapp">*Playstore*</a> 2k+ organic Downloads🚀
 
 Check out my portfolio website <a href="https://miihir79.github.io/portfolio.github.io/">*here*</a> 
 
