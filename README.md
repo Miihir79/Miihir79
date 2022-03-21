@@ -32,7 +32,7 @@ My latest blog on Meduim about efficiently using RecyclerView + Glide to load im
 
 ### Coding Profiles
 
-<a href="https://leetcode.com/Mihir79/">LeetCode</a> <br>
-<a href="https://www.codechef.com/users/mihir_shah02">CodeChef</a>
+* <a href="https://leetcode.com/Mihir79/">**LeetCode**</a> <br>
+* <a href="https://www.codechef.com/users/mihir_shah02">**CodeChef**</a>
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/mihirshah079)
