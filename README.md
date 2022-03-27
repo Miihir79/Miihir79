@@ -13,10 +13,15 @@ I write *Blogs* sometimes📝on <a href="https://hashnode.com/@Mihir79">**Hashno
 
 My latest blog on Meduim about efficiently using RecyclerView + Glide to load images in android <a href="https://medium.com/@mihirrshah02/recycler-view-glide-load-a-lot-of-images-really-fast-1434ef47174d">*read*</a>
 
-### Projects You can contribute to:
-1. <a href="https://github.com/gdsc-pdeu/MeraList">*MeraList*</a> - A notes making application
-2. <a href="https://github.com/Miihir79/BookMyShow_clone">*BookMyShow_clone*</a> - A app that shows recent movies and their stats
-3. <a href ="https://github.com/Miihir79/TickTockClone">*TickTockClone*</a> - A very generic short video app.**(It needs some MAJOR improvements)**
+<details> 
+<summary><b>Projects you can contribute to </b></summary>
+  <br/>
+    1. <a href="https://github.com/gdsc-pdeu/MeraList"> MeraList </a> - A notes making application <br>
+    2. <a href="https://github.com/Miihir79/BookMyShow_clone">BookMyShow_clone</a> - A app that shows recent movies and their stats <br>
+    3. <a href ="https://github.com/Miihir79/TickTockClone">TickTockClone</a> - A very generic short video app.(It needs some MAJOR improvements)
+
+</details>  
+
 #### Check out my library:
 <br>
 <a href="https://github.com/Miihir79/DrawingCanvas-Library">
