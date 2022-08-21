@@ -3,6 +3,8 @@
 Final Year ICT student at PDEU(PDPU), I love **Android and Kotlin** and love contributing to the open-source community.
 Feel free to *contribute* to or *use* any of the projects.
 
+Currently interning at JoshTalks and working on the <a href="https://play.google.com/store/apps/details?id=com.joshtalks.joshskills&hl=en_IN">JoshSkills English leaning  app </a> which has 1 Million+ downloads.
+
 Check out my Drawing app on <a href="https://play.google.com/store/apps/details?id=com.mihir.drawingapp">*Playstore*</a> 5000+ organic Downloads🚀
 
 Check out my portfolio website <a href="https://miihir79.github.io/portfolio.github.io/">*here*</a> 
