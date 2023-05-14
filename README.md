@@ -5,7 +5,7 @@ Feel free to *contribute* to or *use* any of the projects.
 
 Currently interning at JoshTalks and working on the <a href="https://play.google.com/store/apps/details?id=com.joshtalks.joshskills&hl=en_IN">JoshSkills English leaning  app </a> which has 5 Million+ downloads.
 
-Check out my Drawing app on <a href="https://play.google.com/store/apps/details?id=com.mihir.drawingapp">*Playstore*</a> 9000+ organic Downloads🚀
+Check out my Drawing app on <a href="https://play.google.com/store/apps/details?id=com.mihir.drawingapp">*Playstore*</a> 10k+ organic Downloads🚀
 
 Check out my portfolio website <a href="https://miihir79.github.io/portfolio.github.io/">*here*</a> 
 
@@ -16,10 +16,8 @@ My latest blog on Meduim about efficiently using RecyclerView + Glide to load im
 <details> 
 <summary><b>Projects you can contribute to </b></summary>
   <br/>
-    1. <a href="https://github.com/gdsc-pdeu/MeraList"> MeraList </a> - A notes making application <br>
-    2. <a href="https://github.com/Miihir79/BookMyShow_clone">BookMyShow_clone</a> - A app that shows recent movies and their stats <br>
-    3. <a href ="https://github.com/Miihir79/TickTockClone">TickTockClone</a> - A very generic short video app.(It needs some MAJOR improvements) <br>
-    4. <a href="">Podcast app</a> - An app to listen to podcast, uses itunes Api.
+    1. <a href="https://github.com/Miihir79/NotificationTracker">NotificationTracker</a> - An app that helps track your notifications<br>
+    2. <a href="https://github.com/Miihir79/Podcast">Podcast app</a> - An app to listen to podcast, uses itunes Api.
 
 </details>  
 
