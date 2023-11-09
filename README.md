@@ -1,11 +1,11 @@
 ### Hey There 👋
 
-Final Year ICT student at PDEU(PDPU), I love **Android and Kotlin** and love contributing to the open-source community.
+I am a Product guy with a Coding DNA, I love **Android and Kotlin** and love contributing to the open-source community.
 Feel free to *contribute* to or *use* any of the projects.
 
-Currently interning at JoshTalks and working on the <a href="https://play.google.com/store/apps/details?id=com.joshtalks.joshskills&hl=en_IN">JoshSkills English leaning  app </a> which has 5 Million+ downloads.
+I have worked at JoshTalks on the <a href="https://play.google.com/store/apps/details?id=com.joshtalks.joshskills&hl=en_IN">JoshSkills English leaning  app </a> which has 10 Million+ downloads.
 
-Check out my Drawing app on <a href="https://play.google.com/store/apps/details?id=com.mihir.drawingapp">*Playstore*</a> 10k+ organic Downloads🚀
+Check out my Drawing app on <a href="https://play.google.com/store/apps/details?id=com.mihir.drawingapp">*Playstore*</a> 15k+ organic Downloads🚀
 
 Check out my portfolio website <a href="https://miihir79.github.io/portfolio.github.io/">*here*</a> 
 
@@ -34,7 +34,7 @@ My latest blog on Meduim about efficiently using RecyclerView + Glide to load im
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Miihir79&theme=dark" alt="Miihir79" /></p>
 <br>
 
-### Coding Profiles
+##### Coding Profiles (No longer Active)
 
 * <a href="https://leetcode.com/Mihir79/">**LeetCode**</a> <br>
 * <a href="https://www.codechef.com/users/mihir_shah02">**CodeChef**</a>
