@@ -5,7 +5,9 @@ Feel free to *contribute* to or *use* any of the projects.
 
 I have worked at JoshTalks on the <a href="https://play.google.com/store/apps/details?id=com.joshtalks.joshskills&hl=en_IN">JoshSkills English leaning  app </a> which has 10 Million+ downloads.
 
-Check out my Drawing app on <a href="https://play.google.com/store/apps/details?id=com.mihir.drawingapp">*Playstore*</a> 15k+ organic Downloads🚀
+Check out my Freehand Drawing app on <a href="https://play.google.com/store/apps/details?id=com.mihir.drawingapp">*Playstore*</a> 35k+ organic Downloads🚀
+
+Published Notification tracker app on playstore check it out <a href="https://play.google.com/store/apps/details?id=com.mihir.notificationtracker">here</a>
 
 Check out my portfolio website <a href="https://miihir79.github.io/portfolio.github.io/">*here*</a> 
 
